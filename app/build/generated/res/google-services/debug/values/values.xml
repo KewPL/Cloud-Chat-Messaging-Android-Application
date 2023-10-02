@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">775168260946-kaoa3fits7b6dqsj04b55rg9dr33rp20.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">775168260946</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKfFyQ4D1Ob7MAiCXthKFCZ4S_ntSvMdk</string>
+    <string name="google_app_id" translatable="false">1:775168260946:android:b3ba275a9ff5ff2f88588b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKfFyQ4D1Ob7MAiCXthKFCZ4S_ntSvMdk</string>
+    <string name="google_storage_bucket" translatable="false">whatsapp-683fd.appspot.com</string>
+    <string name="project_id" translatable="false">whatsapp-683fd</string>
+</resources>
